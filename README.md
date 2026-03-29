@@ -1,62 +1,145 @@
-# Hi there
- 
-<h1 align="center">Hi 👋, I'm Momen Abd AlHaq</h1>
+# 👑 Momen Abd AlHaq  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00BFFF&center=true&vCenter=true&width=600&lines=💻+Web+Developer;🤖+AI+Enthusiast;📱+Mobile+App+Creator;🎮+Game+Developer+%7C+Unity+%26+Unreal+Engine" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=2500&color=00BFFF&center=true&vCenter=true&width=800&lines=🚀+Full-Stack+Developer;🤖+AI+Engineer;📱+Mobile+App+Developer;🎮+Game+Developer;🔥+Always+Building+Something+Cool" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Momen-Abd32&label=Profile+Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-### 🌟 About Me  
-- 💡 I’m passionate about **Web, AI, Mobile, and Game Development**  
-- 🎯 Always learning and creating new things with **Unity** and **Unreal Engine**  
-- 💻 Skilled in **Java, Python, C#, .NET, Flutter, React, HTML, CSS, JS, PHP**  
-- ✨ Love building smart and interactive projects  
+## 🧠 About Me  
+
+```yaml
+name: Momen Abd AlHaq
+role: Full Stack Developer
+focus: [Web, AI, Mobile, Game Development]
+currently_learning: Advanced AI Systems
+goal: Build impactful tech products 🚀
+```
 
 ---
 
-### 🚀 Tech Stack
-<div align="center">
-  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+## ⚔️ Tech Arsenal  
 
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,jquery,vite,nodejs,php,java,python,cs,dotnet,postgres,mysql,mongodb,git,github,figma,vercel,npm,unity,unreal" />
+</p>
 
 ---
 
-### 🕹️ Game Engines  
-<div align="center">
-  
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/Unreal-0E1128?style=for-the-badge&logo=unreal-engine&logoColor=white)
+## 🧩 Languages & Skills  
 
-</div>
+```yaml
+Programming Languages:
+  - Java
+  - Python
+  - C#
+  - JavaScript
+  - TypeScript
+  - PHP
+
+Frontend:
+  - HTML, CSS
+  - React, Next.js
+  - Tailwind, Bootstrap, jQuery
+
+Backend:
+  - Node.js
+  - .NET
+
+Databases:
+  - PostgreSQL, MySQL, MongoDB
+
+Tools:
+  - Git, GitHub
+  - Figma, Framer
+  - Vercel, npm
+  - Notion, Canva
+```
 
 ---
 
-### 📫 Contact Me  
-📧 **abdalhaqmomen@gmail.com**  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/momen-abdalhaq-7815b1320/)
+## 📊 GitHub Analytics  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Momen-Abd32&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Momen-Abd32&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-### ⚡ Fun Animation  
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Momen-Abd32&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Momen-Abd32&theme=tokyonight" />
-</div>
+## 📊 Top Languages  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Momen-Abd32&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-###  Visitors  
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Momen-Abd32)
+## 📈 Contribution Graph  
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Momen-Abd32&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 🏆 Achievements  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Momen-Abd32&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
+
+---
+
+## 🚀 Featured Projects  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Momen-Abd32&repo=YOUR_PROJECT_1&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Momen-Abd32&repo=YOUR_PROJECT_2&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🌐 Connect With Me  
+
+<p align="center">
+  <a href="mailto:abdalhaqmomen@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/momen-abdalhaq-7815b1320/">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+</p>
+
+---
+
+## 🧠 Developer Philosophy  
+
+```diff
++ Code Smart
++ Build Fast
++ Learn Daily
++ Stay Consistent
+```
+
+---
+
+## 🐍 Contribution Snake  
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Momen-Abd32/Momen-Abd32/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## ⚡ Quote  
+
+<p align="center">
+
+> “Great developers don’t just write code… they create impact.” 🚀
+
+</p>
