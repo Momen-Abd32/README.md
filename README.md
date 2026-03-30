@@ -37,6 +37,14 @@
 
 ---
 
+## 📱 Mobile Development
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,androidstudio" />
+</p> 
+
+---
+
 ## 🗄️ Databases
 
 <p align="center">
